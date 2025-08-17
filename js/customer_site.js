@@ -2,12 +2,10 @@ const CUSTOMER_SITES = {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
-      "detail": "http://caiji.dyttzyapi.com"
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
-      "detail": "https://heimuer.tv"
     },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
